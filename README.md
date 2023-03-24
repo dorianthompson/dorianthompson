@@ -5,15 +5,6 @@
 
 - 📫 How to reach me **thompsondorian2@gmail.com**
 
-- 📄 Know about my experiences [DorianThompsonSoftwareEngineerResume2023.pdf](DorianThompsonSoftwareEngineerResume2023.pdf)
-
-<h1 align="center">Hi 👋, I'm Dorian Thompson</h1>
-<h3 align="center">A passionate Software Engineer from Delaware</h3>
-
-- 🌱 I’m currently learning **Frontend and Backend Development as well as System Design**
-
-- 📫 How to reach me **thompsondorian2@gmail.com**
-
 - 📄 Know about my experiences [https://docs.google.com/document/d/1okiKwuZeJmluTdZlgdFnU8VKcmJxCgpO1UiuUa97nzw/edit?usp=sharing](https://docs.google.com/document/d/1okiKwuZeJmluTdZlgdFnU8VKcmJxCgpO1UiuUa97nzw/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
